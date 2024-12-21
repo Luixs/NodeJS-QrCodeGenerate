@@ -28,7 +28,7 @@ When you run the project, you will see:
 
 ---
 
-## 📂 Estrutura do Projeto 
+## 📂 Project Structure 
 
 ```plaintext
 📦 qr-code-generate
